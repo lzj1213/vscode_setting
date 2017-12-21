@@ -1,0 +1,19 @@
+{
+    "php.validate.executablePath": "C:/My_/my_program/phpStudy/php/php-7.0.12-nts/php.exe",
+    "php.executablePath": "C:/My_/my_program/phpStudy/php/php-7.0.12-nts/php.exe",
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "simple-icons",
+    "window.zoomLevel": 1,
+    "editor.fontSize": 18,
+    "emmet.triggerExpansionOnTab": true,
+    "files.autoSave": "off",
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "editor.renderControlCharacters": false,
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": false,
+    "window.menuBarVisibility": "default",
+    "workbench.sideBar.location": "left",
+    "workbench.editor.showTabs": true
+}
